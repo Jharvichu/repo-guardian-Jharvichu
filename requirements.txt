@@ -1,5 +1,8 @@
 networkx
 pytest-xdist
+pytest
+pytest-cov
+behave
 textdistance
 rich
 pygtrie
